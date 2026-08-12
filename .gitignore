@@ -1,0 +1,14 @@
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/outputs/
+**/logs/
+*.log
+raspberry/config.json
+raspberry/data/
+raspberry/models/*.task
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

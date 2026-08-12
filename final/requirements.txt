@@ -1,0 +1,7 @@
+opencv-python
+mediapipe==0.10.21
+numpy
+pillow
+pyserial
+google-genai>=1.0.0
+qrcode[pil]>=7.4

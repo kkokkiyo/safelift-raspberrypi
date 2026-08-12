@@ -1,0 +1,14 @@
+{
+  "fsr": {
+    "adc_channels": [0, 1, 2, 3, 4, 5],
+    "left_channels": [0, 1, 2],
+    "right_channels": [3, 4, 5],
+    "sample_hz": 50,
+    "smoothing_window": 5
+  },
+  "spi": {"bus": 0, "device": 0, "max_speed_hz": 1000000},
+  "i2c": {"bus": 1},
+  "camera": {"index": 0, "width": 640, "height": 480, "fps": 15},
+  "calibration_seconds": 3.0,
+  "web": {"host": "0.0.0.0", "port": 8090}
+}
