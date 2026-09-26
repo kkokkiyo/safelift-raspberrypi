@@ -1,5 +1,7 @@
 # SafeLift Embedded
 
+> 이 저장소는 [SafeLift XR](https://kkokkiyo.github.io/projects/safelift-xr/)(2026 GIST AI창의융합경진대회 최우수상)을 Unity와 아두이노 없이 라즈베리파이 하나로 옮겨 보려던 실험입니다. 실제 대회에 쓴 버전이 아니고, 끝까지 완성하지 않았습니다.
+
 Raspberry Pi에서 FSR·IMU·공기압 센서와 웹캠을 직접 읽고 OpenCV·MediaPipe·규칙 기반 평가 로직으로 운동 자세와 위험도를 분석하는 프로젝트입니다. Unity와 Arduino 없이 Raspberry Pi 하나에서 센서 수집, 계산, 웹 대시보드까지 실행하는 것을 목표로 합니다.
 
 ## 구성
